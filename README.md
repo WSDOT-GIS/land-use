@@ -15,6 +15,8 @@ See <https://apps.leg.wa.gov/wac/default.aspx?cite=458-53-030>
 |    81 |  89 | resource production and extraction       |
 |    91 |  99 | undeveloped land and water areas         |
 
+Counties can add additional digits to create their own codes.
+
 <!-- markdownlint-disable no-inline-html no-duplicate-heading -->
 
 ## Land Use Codes
